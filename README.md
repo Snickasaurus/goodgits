@@ -4,3 +4,4 @@
 * [nethog](https://github.com/raboof/nethogs) - Small 'net top' tool, grouping bandwidth by process.
 * [espy](https://github.com/activecm/espy) - Sysmon Network Log Collector and Adapter
 * [IRTriage](https://github.com/AJMartel/IRTriage) - Triage stuff
+* [Meerkat](https://github.com/TonyPhipps/Meerkat) - Collection of PowerShell tools for IR
