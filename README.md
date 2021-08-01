@@ -5,3 +5,4 @@
 * [espy](https://github.com/activecm/espy) - Sysmon Network Log Collector and Adapter
 * [IRTriage](https://github.com/AJMartel/IRTriage) - Triage stuff
 * [Meerkat](https://github.com/TonyPhipps/Meerkat) - Collection of PowerShell tools for IR
+* [dnstwist](https://github.com/elceef/dnstwist) - Search tool for DNS fuzzing
